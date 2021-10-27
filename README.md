@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Android and Fluter developer.
+I'm a Android and Flutter developer.
 
 - 🎯 I'm focusing on Flutter
 - 🔭 I’m currently working on AgileTech
