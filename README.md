@@ -3,7 +3,7 @@
 I'm a Android and Flutter developer.
 
 - 🎯 I'm focusing on Flutter
-- 🔭 I’m currently working on AgileTech
+- 🔭 I’m currently working on VPBank Securities
 - 📧 Mail me 📫: hdinh381@gmail.com
 - This is my 😄: https://profile-summary-for-github.com/user/dinhhung1999
 - Gitlab: https://gitlab.com/dinhhung1999
